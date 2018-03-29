@@ -7,13 +7,6 @@ vue-resource
 webpack
 ```
 
-
-## 说明
-``` bash
-因该例子是以公司项目开发的，所以仅提供学习参考
-可以的话 GitHub给个star！！！
-```
-
 ## 示例
 
 [demo传送门](https://dodov.github.io/vueWebapp/index.html)
