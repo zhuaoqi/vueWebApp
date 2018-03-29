@@ -9,11 +9,7 @@ webpack
 
 ## 示例
 
-[demo传送门](https://dodov.github.io/vueWebapp/index.html)
 <p><img src="gif/demo.gif" width="375" height="667"></p>
-
-## vue1.x 项目
-基于vue1.x已上线[积分购项目](http://m.51jfgou.com/jgouINF/weixin/index.html#!/)
 
 ## 运行
 
@@ -27,7 +23,7 @@ git clone git@github.com:vincentSea/vueWebapp.git
 
 ``` bash
 npm install
-cnpm install [前提安装了淘宝源](http://npm.taobao.org/)
+cnpm install (http://npm.taobao.org/)
 ```
 
 ``` bash
@@ -74,10 +70,4 @@ npm install mockjs --save
 
 </pre>
 
-
-## [vue2.x Conde社区](https://dodov.github.io/vueCnode/index.html#/)
-
-vue2.x Cnode社区是基于vue、vue-router、vuex、axios、es6开发，使用webpack构建工具编译打包项目
-
-[点击查看效果](https://dodov.github.io/vueCnode/index.html#/)
 
